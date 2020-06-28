@@ -11,7 +11,7 @@ _запущено и протестировано на Google Colab_
 ![Модель](model_structure.png)
 
 # Скриншоты
-<details>
+
 ![Скриншот 1](screenshots/screen_1.png)
 ![Скриншот 2](screenshots/screen_2.png)
 ![Скриншот 3](screenshots/screen_3.png)
@@ -29,4 +29,3 @@ _запущено и протестировано на Google Colab_
 ![Скриншот 15](screenshots/screen_15.png)
 ![Скриншот 16](screenshots/screen_16.png)
 ![Скриншот 17](screenshots/screen_17.png)
-</details>
