@@ -7,10 +7,10 @@ _запущено и протестировано на Google Colab_
 - TensorFlow
 - OpenCV 
 
-# Модель
+## Модель
 ![Модель](model_structure.png)
 
-# Скриншоты
+## Скриншоты
 
 ![Скриншот 1](screenshots/screen_1.png)
 ![Скриншот 2](screenshots/screen_2.png)
